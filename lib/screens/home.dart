@@ -38,12 +38,12 @@ class _HomeScreenState extends State<HomeScreen> {
                     maxLines: 1,
                     overflow: TextOverflow.ellipsis,
                   ),
-                  Text(
-                    noteList[index].body,
-                    style: TextStyle(fontSize: 18),
-                    maxLines: 2,
-                    overflow: TextOverflow.ellipsis,
-                  ),
+                  // Text(
+                  //   noteList[index].body,
+                  //   style: TextStyle(fontSize: 18),
+                  //   maxLines: 2,
+                  //   overflow: TextOverflow.ellipsis,
+                  // ),
                 ],
               ),
             ),
