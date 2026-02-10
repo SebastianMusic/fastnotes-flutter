@@ -1,16 +1,7 @@
-# fnflutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Hvordan bygge og kjøre prosjektet
+1. åpne en terminal å naviger deg til hvor du ønsker å klone prosjektet
+2. forsikre deg at du har flutter binary installert på maskinen din
+3. naviger deg til mappen du klonet
+4. forsikre deg at du har en telefon koblet til maskinen din
+5. kjør `flutter run`
+6. applikasjonen vil nå installeres og åpnes på din telefon
